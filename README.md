@@ -38,7 +38,7 @@ A lightweight Spigot plugin for Minecraft 1.21.5 that injects purely visual “f
 
 - **Minecraft Version:** 1.21.5  
 - **Spigot / Paper:** BuildTools-generated 1.21.5 (NMS access required)  
-- **Java:** 17+  
+- **Java:** 21+  
 - **Permissions:** OP (or equivalent `faketabplayer.*` permission)  
 
 ---
