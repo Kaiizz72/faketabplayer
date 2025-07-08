@@ -21,7 +21,7 @@ A lightweight Spigot plugin for Minecraft 1.21.5 that injects purely visual “f
 
 ## Features
 
-- **Dynamic Fake Players**  
+- **Dynamic Fake Players**  (MAX 50)
   Add or remove arbitrary player names from every client’s tab UI—no real entities ever spawn.  
 - **Zero Gameplay Impact**  
   Tab entries exist only in the client overlay; server mechanics, entity counts, and world state remain untouched.  
