@@ -1,0 +1,5 @@
+name: PersistentFakeTabPlayers
+version: 1.0
+main: com.gumbal.fakeplayers.PersistentFakeTabPlayers
+api-version: 1.20
+author: GumbalMC
